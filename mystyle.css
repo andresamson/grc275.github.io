@@ -1,0 +1,39 @@
+/* My Custom CSS */
+
+body {
+    background-color: beige;
+    padding-top: 25px;
+}
+
+h1 {
+    font-family: 'Dela Gothic One', sans-serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+
+h2 {
+    font-family: 'Dela Gothic One', sans-serif;
+    font-size: 50px;
+}
+
+.flex-container {
+    clear: both;
+    background-color: chartreuse;
+}
+
+.footer {
+    text-align: center;
+    width: 100%;
+    margin: auto 0;
+    font-family: 'Dela Gothic One', sans-serif;
+    text-decoration-color: antiquewhite;
+    font-size: 30px;
+}
+
+.jumbotron {
+    color: firebrick;
+    background-color: aqua;
+}
